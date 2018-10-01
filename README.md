@@ -1,2 +1,2 @@
 # tailwind-wordpress
-Creating a wordpress theme with tailwindcss by Vinicius Batista
+Creating a wordpress theme with tailwindcss and Vue.js by Vinicius Batista

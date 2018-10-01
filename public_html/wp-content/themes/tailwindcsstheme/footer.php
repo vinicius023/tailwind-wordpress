@@ -8,11 +8,10 @@
     </footer>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-    <!-- versão de desenvolvimento, inclui aviso úteis no console  -->
-    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
     <script>
         new Vue({
-            el: '#app',
+            el: '#header',
             data: {
                 open: false,
             },
